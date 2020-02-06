@@ -1,0 +1,7 @@
+open Permutation.java file in your compiler n follow the steps :
+  -open terminal 
+  -move to file location
+  -javac Permutation.java
+  -java Permutation
+  
+  See the Results...
